@@ -1,7 +1,7 @@
 {
-  "name": "jjyun_dev.github.io",
+  "name": "portfolio",
   "version": "0.1.0",
-  "homepage": "https://jjyun_dev.github.io/",
+  "homepage": "https://jeongyun-jang.github.io/portfolio/",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
